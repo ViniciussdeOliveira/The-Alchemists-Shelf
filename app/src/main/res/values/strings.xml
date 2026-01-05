@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Alchemist\'s Shelf</string>
+    <string name="title_shop">Potion Shop</string>
+
+    <string name="potion_healing">Healing Potion</string>
+    <string name="potion_mana">Mana Elixir</string>
+    <string name="potion_stamina">Stamina Tonic</string>
+
+    <string name="desc_healing">Restores health instantly.</string>
+    <string name="desc_mana">Recovers magical energy.</string>
+    <string name="desc_stamina">Good for long runs.</string>
+
+    <string name="subtotal_label">Total: %s</string>
+    <string name="grand_total_label">Total Order: %s</string>
+
+    <string name="price_format">Price: %s</string> <string name="btn_buy">Buy</string>
+
+    <plurals name="cart_status">
+        <item quantity="one">%d item in cart</item>
+        <item quantity="other">%d items in cart</item>
+    </plurals>
+</resources>

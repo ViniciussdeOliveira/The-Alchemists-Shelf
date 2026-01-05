@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Prateleira do Alquimista</string>
+    <string name="title_shop">Loja de Poções</string>
+
+    <string name="potion_healing">Poção de Cura</string>
+    <string name="potion_mana">Elixir de Mana</string>
+    <string name="potion_stamina">Tônico de Vigor</string>
+
+    <string name="desc_healing">Restaura saúde instantaneamente.</string>
+    <string name="desc_mana">Recupera energia mágica.</string>
+    <string name="desc_stamina">Bom para longas corridas.</string>
+
+    <string name="price_format">Preço: %s</string>
+    <string name="btn_buy">Comprar</string>
+
+    <string name="subtotal_label">Total: %s</string>
+    <string name="grand_total_label">Total do Pedido: %s</string>
+
+    <plurals name="cart_status" tools:ignore="MissingQuantity">
+        <item quantity="one">%d item no carrinho</item>
+        <item quantity="other">%d itens no carrinho</item>
+    </plurals>
+</resources>
